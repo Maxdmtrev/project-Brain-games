@@ -19,3 +19,9 @@ https://asciinema.org/a/t4YZuSZMtWIthNxCs7K5SV5Y4
 
 ### start game 'brain-even'
 https://asciinema.org/a/JgBiqcgLVjiJc9tcOidHZCIS6
+
+### package 'brain-gcd' installation example
+https://asciinema.org/a/HNwCwFDhN4j2YckDxqLZQG1JG
+
+### start game 'brain-gcd'
+https://asciinema.org/a/Eu9N11YrmfTszlhY7N58XraF2
