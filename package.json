@@ -1,6 +1,6 @@
 {
   "name": "project-brain-test",
-  "version": "5.0.4",
+  "version": "5.0.8",
   "description": "Hexlet-project-1/Brain-games",
   "keywords": [
     "Hexlet",
@@ -10,7 +10,8 @@
   ],
   "main": "",
   "bin": {
-    "brain-games": "dist/bin/brain-games.js"
+    "brain-games": "dist/bin/brain-games.js",
+    "brain-even": "dist/bin/brain-even.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
