@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-import makeEvent from '../logic';
+import startGame from '../even';
 
-makeEvent();
+startGame();
