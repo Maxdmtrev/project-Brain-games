@@ -17,7 +17,7 @@ https://asciinema.org/a/lgDKC85q8EPjnUSTVJBSZLeRX
 ### package 'brain-calc' installation example
 https://asciinema.org/a/t4YZuSZMtWIthNxCs7K5SV5Y4
 
-### start game 'brain-even'
+### start game 'brain-calc'
 https://asciinema.org/a/JgBiqcgLVjiJc9tcOidHZCIS6
 
 ### package 'brain-gcd' installation example
@@ -29,5 +29,11 @@ https://asciinema.org/a/Eu9N11YrmfTszlhY7N58XraF2
 ### package 'brain-progression' installation example
 https://asciinema.org/a/KCLHESSM04h4xGK0Cx7xrWZ2W
 
-### start game 'brain-gcd'
-https://asciinema.org/a/kebQsGJ6jx3whPvQkbPorxyeM
+### start game 'brain-progression'
+https://asciinema.org/a/0mR5OnF9OTEFg7HKDZk0oK3yq
+
+### package 'brain-prime' installation example
+https://asciinema.org/a/1rLDXZv3aPQpSuEotl6BceBCG
+
+### start game 'brain-prime'
+https://asciinema.org/a/MLNGOvmVVyicXPJk8qE69AEEz

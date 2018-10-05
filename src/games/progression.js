@@ -2,17 +2,20 @@ import game from '..';
 import getRandomNum from '../utils';
 
 const description = 'What number is missing in this progression?\n';
-const minValue = 1;
-const maxValue = 20;
+const minValue = 0;
+const maxValue = 10;
 const length = 10;
 
-const getProgression = (progresLength) => {
+const getProgression = () => {
   const divers = getRandomNum(minValue, maxValue);
-  const result = [];
-  for (let i = 0; i < progresLength; i += 1) {
-    result.push(i * divers);
-  }
-  return result;
+  const step = getRandomNum(1, length);
+  let changedValue = divers;
+  const getFollowingValue = () => {
+    changedValue += step;
+    return changedValue;
+  };
+
+  return [divers, ...Array.from({ length: 9 }, getFollowingValue)];
 };
 
 const gameData = () => {
