@@ -1,5 +1,5 @@
-import game from './index';
-import getRandomNum from './func';
+import game from '..';
+import getRandomNum from '../utils';
 
 const description = 'What is the result of the expression?\n';
 const minValue = 1;
@@ -24,12 +24,11 @@ const gameData = () => {
       question = `${arg1} + ${arg2}`;
       answer = `${arg1 + arg2}`;
       break;
-    default: console.log('Error: Unknown operator was found.');
+    default:
       break;
   }
   return {
-    question,
-    answer: `${answer}`,
+    question, answer,
   };
 };
 

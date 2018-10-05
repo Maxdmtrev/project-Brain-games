@@ -1,5 +1,5 @@
-import game from './index';
-import getRandomNum from './func';
+import game from '..';
+import getRandomNum from '../utils';
 
 const description = 'Answer "yes" if number even otherwise answer "no".\n';
 const minValue = 1;
@@ -10,8 +10,7 @@ const gameData = () => {
   const question = getRandomNum(minValue, maxValue);
   const answer = isEvenNum(question) ? 'yes' : 'no';
   return {
-    question,
-    answer,
+    question, answer,
   };
 };
 
