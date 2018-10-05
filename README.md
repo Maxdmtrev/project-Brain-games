@@ -25,3 +25,9 @@ https://asciinema.org/a/HNwCwFDhN4j2YckDxqLZQG1JG
 
 ### start game 'brain-gcd'
 https://asciinema.org/a/Eu9N11YrmfTszlhY7N58XraF2
+
+### package 'brain-progression' installation example
+https://asciinema.org/a/KCLHESSM04h4xGK0Cx7xrWZ2W
+
+### start game 'brain-gcd'
+https://asciinema.org/a/kebQsGJ6jx3whPvQkbPorxyeM
