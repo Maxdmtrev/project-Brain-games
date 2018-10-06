@@ -30,10 +30,10 @@ https://asciinema.org/a/Eu9N11YrmfTszlhY7N58XraF2
 https://asciinema.org/a/KCLHESSM04h4xGK0Cx7xrWZ2W
 
 ### start game 'brain-progression'
-https://asciinema.org/a/0mR5OnF9OTEFg7HKDZk0oK3yq
+https://asciinema.org/a/nAZWetITn7rLPhsVBnmvGyxjZ
 
 ### package 'brain-prime' installation example
-https://asciinema.org/a/ZmzW5rz3gI5ntrCzeE1RYIHAM
+https://asciinema.org/a/L6yNLqM4Bcg7ZutZWd0oZrEa0
 
 ### start game 'brain-prime'
 https://asciinema.org/a/R6TPvSLtypRh2DPXqVEQjOlGo

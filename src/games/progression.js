@@ -8,20 +8,18 @@ const length = 10;
 const first = getRandomNum(minValue, maxValue);
 const step = getRandomNum(1, length);
 
-const getProgression = (progresLength) => {
+const getProgression = (getLength, firstArg, moveAgr) => {
   const result = [];
-  for (let i = 0; i < progresLength; i += 1) {
-    result.push(first + step * i);
+  for (let i = 0; i < getLength; i += 1) {
+    result.push(firstArg + moveAgr * i);
   }
   return result;
 };
 
 const gameData = () => {
-  const progression = getProgression(length);
+  const progression = getProgression(length, first, step);
   const hideElementIndex = getRandomNum(0, length - 1);
-  const copyProgression = progression.slice();
-  copyProgression[hideElementIndex] = '..';
-  const question = copyProgression.join(' ');
+  const question = progression.map((element, index) => (index === hideElementIndex ? '..' : element)).join(' ');
   const answer = `${progression[hideElementIndex]}`;
   return {
     question, answer,
