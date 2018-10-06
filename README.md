@@ -33,7 +33,7 @@ https://asciinema.org/a/KCLHESSM04h4xGK0Cx7xrWZ2W
 https://asciinema.org/a/0mR5OnF9OTEFg7HKDZk0oK3yq
 
 ### package 'brain-prime' installation example
-https://asciinema.org/a/1rLDXZv3aPQpSuEotl6BceBCG
+https://asciinema.org/a/ZmzW5rz3gI5ntrCzeE1RYIHAM
 
 ### start game 'brain-prime'
-https://asciinema.org/a/MLNGOvmVVyicXPJk8qE69AEEz
+https://asciinema.org/a/R6TPvSLtypRh2DPXqVEQjOlGo

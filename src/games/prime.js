@@ -1,7 +1,7 @@
 import game from '..';
 import getRandomNum from '../utils';
 
-const description = 'Is this number prime?';
+const description = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 const minValue = 1;
 const maxValue = 100;
 const isPrime = (num) => {
