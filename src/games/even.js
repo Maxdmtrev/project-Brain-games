@@ -1,10 +1,10 @@
 import game from '..';
 import getRandomNum from '../utils';
+import { isEvenNum } from '../math';
 
 const description = 'Answer "yes" if number even otherwise answer "no".\n';
 const minValue = 1;
 const maxValue = 100;
-const isEvenNum = num => (num % 2 === 0);
 
 const gameData = () => {
   const question = getRandomNum(minValue, maxValue);
