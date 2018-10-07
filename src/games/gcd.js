@@ -1,10 +1,10 @@
 import game from '..';
 import getRandomNum from '../utils';
-import { getGcd } from '../math';
 
 const description = 'Find the greatest common divisor of given numbers.\n';
 const minValue = 1;
 const maxValue = 20;
+const getGcd = (num1, num2) => (num1 !== 0 ? getGcd(num2 % num1, num1) : num2);
 
 const gameData = () => {
   const arg1 = getRandomNum(minValue, maxValue);
